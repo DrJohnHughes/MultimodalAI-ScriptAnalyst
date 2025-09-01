@@ -7,6 +7,8 @@
 > **Current Status:** Work-in-Progress (early scaffolding + experimentation)  
 > Accepts scripts in PDF / Final Draft / Markdown formats
 
+![ScriptAnalyst.png](assets/ScriptAnalyst.png)
+
 ---
 
 ## Purpose
@@ -125,6 +127,7 @@ multimodalai-scriptscope/
 │  ├─ nlp/        # segmentation, entities, beats
 │  └─ visuals/    # diffusion pipeline & prompts
 ├─ assets/
+│  └─ ScriptAnalyst.png
 ├─ environment.yml
 ├─ LICENSE
 └─ README.md
