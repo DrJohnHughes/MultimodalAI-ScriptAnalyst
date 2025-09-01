@@ -16,7 +16,6 @@ venv/
 *.yml
 
 # Data + Generated
-assets/
 outputs/
 *.log
 *.csv
